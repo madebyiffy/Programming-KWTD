@@ -11,7 +11,7 @@ Often times you can just start typing (like in python), but some languages may r
 
 In C++, every program begins like this:
 
-```bash
+```cpp
   #include <iostream> //This is your space for headers
   using namespace std; //This is to declare namespaces
 
